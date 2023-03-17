@@ -6,7 +6,8 @@
 
  👯 I’m looking to apply my skills in a role focused on creative problem solving with an innovative team.  
  🔭 I’m currently working on adapting the newest AI technologies into my workflow and development ideas.  
- 📫 How to reach me: jmpherso@gmail.com  
+ 📫 How to reach me: jmpherso@gmail.com
+ ⚡ Connect with me professionally: https://www.linkedin.com/in/jerry-macpherson/
   
 <!--
 **jmpherso/jmpherso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
